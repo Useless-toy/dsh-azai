@@ -1,13 +1,17 @@
 {
-  "name": "dsh-azai-break",
-  "version": "1.1.1",
-  "description": "A stable assistant persona for DeepSeek Harness. Gives your assistant a fixed name, a consistent voice, and a working style that does not open with apologies.",
+  "name": "dsh-azai",
+  "version": "1.2.0",
+  "description": "阿在 —— a stable assistant persona for DeepSeek Harness. Fixed name, consistent voice, and a working style tuned for AI video scriptwriting and prompt engineering for updream / libtv / 即梦.",
   "keywords": [
     "dsh",
     "dsh-plugin",
     "deepseek-harness",
     "persona",
-    "system-prompt"
+    "system-prompt",
+    "ai-video",
+    "prompt-engineering",
+    "jimeng",
+    "dreamina"
   ],
   "type": "module",
   "main": "lib/index.js",
