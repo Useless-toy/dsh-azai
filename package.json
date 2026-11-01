@@ -1,6 +1,6 @@
 {
   "name": "dsh-azai",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "阿在 —— a stable assistant persona for DeepSeek Harness. Fixed name, consistent voice, and a working style tuned for AI video scriptwriting and prompt engineering for updream / libtv / 即梦.",
   "keywords": [
     "dsh",
